@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Python-DHT
+Version: 1.1.2
+Summary: Mit dieser Libary kannst du den DHT11/12 mit dem Raspberry Pi B+/B2 mit Python3 auslesen
+Home-page: https://github.com/coding-world/Python_DHT
+Author: Jugend Programmiert
+Author-email: mail@jugend-programmiert.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
